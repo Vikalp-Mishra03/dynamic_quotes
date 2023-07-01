@@ -47,7 +47,7 @@
 
 .text {
     padding: 0 10%;
-    height: 514px;
+    height: 397px;
     width: 100%;
 }
 
@@ -58,7 +58,7 @@
 }
 
 .text p {
-    font-size: 50px;
+       font-size: 40px;
     color: #a7a1a1;
     font-family: 'Cedarville Cursive', cursive;
 }
